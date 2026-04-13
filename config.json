@@ -34,7 +34,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 17,
+      "labelThreshold": 14,
       "defaultLabelHoverColor": "#fff",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 13
